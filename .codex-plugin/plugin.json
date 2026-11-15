@@ -1,0 +1,26 @@
+{
+  "name": "vasiliadi-skills",
+  "version": "0.1.0",
+  "description": "A collection of agent skills for everyday development workflows, such as writing session handoffs.",
+  "author": {
+    "name": "vasiliadi",
+    "url": "https://github.com/vasiliadi"
+  },
+  "homepage": "https://github.com/vasiliadi/skills",
+  "repository": "https://github.com/vasiliadi/skills",
+  "license": "MIT",
+  "keywords": ["agent-skills", "handoff", "productivity"],
+  "skills": "./skills/",
+  "interface": {
+    "displayName": "vasiliadi skills",
+    "shortDescription": "Everyday development workflow skills",
+    "longDescription": "A collection of agent skills for everyday development workflows, such as writing a session handoff file so the next session can pick up the work without the transcript.",
+    "developerName": "vasiliadi",
+    "category": "Productivity",
+    "capabilities": ["Read", "Write"],
+    "websiteURL": "https://github.com/vasiliadi/skills",
+    "defaultPrompt": [
+      "Write a handoff for this session."
+    ]
+  }
+}
