@@ -1,0 +1,13 @@
+{
+  "name": "vasiliadi-skills",
+  "description": "A collection of agent skills for everyday development workflows, such as writing session handoffs.",
+  "version": "0.1.0",
+  "author": {
+    "name": "vasiliadi",
+    "url": "https://github.com/vasiliadi"
+  },
+  "homepage": "https://github.com/vasiliadi/skills",
+  "repository": "https://github.com/vasiliadi/skills",
+  "license": "MIT",
+  "keywords": ["claude", "claude-code", "claude-skills", "agent-skills", "handoff", "productivity"]
+}

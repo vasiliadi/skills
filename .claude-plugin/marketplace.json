@@ -1,0 +1,28 @@
+{
+  "name": "vasiliadi",
+  "owner": {
+    "name": "vasiliadi",
+    "url": "https://github.com/vasiliadi"
+  },
+  "metadata": {
+    "description": "Personal Claude Code plugin marketplace from vasiliadi.",
+    "version": "0.1.0"
+  },
+  "plugins": [
+    {
+      "name": "vasiliadi-skills",
+      "source": "./",
+      "description": "A collection of agent skills for everyday development workflows, such as writing session handoffs.",
+      "version": "0.1.0",
+      "author": {
+        "name": "vasiliadi",
+        "url": "https://github.com/vasiliadi"
+      },
+      "homepage": "https://github.com/vasiliadi/skills",
+      "repository": "https://github.com/vasiliadi/skills",
+      "license": "MIT",
+      "category": "productivity",
+      "keywords": ["claude-skills", "agent-skills", "handoff", "productivity"]
+    }
+  ]
+}
